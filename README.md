@@ -79,6 +79,10 @@ Através do software, a equipe de triagem pode avaliar a situação do paciente 
 > O questionário pode ser construído pelo próprio hospital a acompanhado por um profissional de saúde;
 
 
+## Identidade Visual
+
+https://www.behance.net/gallery/44000151/App-SHealth-Smart-Health
+
 ## Planejamento Estratégico
 
 - Utilização de Inteligência Cognitiva para otimização e efetividade do questionário;
@@ -88,29 +92,29 @@ Através do software, a equipe de triagem pode avaliar a situação do paciente 
 
 ## Quem Somos?
 
-João Paulo Varandas
-Arquiteto de Soluções na Nuvem / Marketing
-https://www.linkedin.com/in/joaovarandas
-jpvarandas@gmail.com
-+55 (11) 99889-2321
+### João Paulo Varandas  
+> Arquiteto de Soluções na Nuvem / Marketing  
+> https://www.linkedin.com/in/joaovarandas  
+> jpvarandas@gmail.com  
+> +55 (11) 99889-2321  
 
-Rogério Lima
-Diretoria de Arte e Aplicações Mobile
-https://www.linkedin.com/in/tropicalcyborg
+### Rogério Lima
+> Diretoria de Arte e Aplicações Mobile  
+> https://www.linkedin.com/in/tropicalcyborg  
 
 
-Guilherme Ribeiro
-Especialista em IOT
-guilherme@inovacaoimobiliaria.com.br
-https://www.linkedin.com/in/gribeiro
-+55 (11) 99912-7222
+### Guilherme Ribeiro
+> Especialista em IOT  
+> guilherme@inovacaoimobiliaria.com.br  
+> https://www.linkedin.com/in/gribeiro  
+> +55 (11) 99912-7222  
 
-Alison Pedro
-Desenvolvedor Senior
-https://www.linkedin.com/in/alisonpedro
+### Alison Pedro
+> Desenvolvedor Senior  
+> https://www.linkedin.com/in/alisonpedro  
 
-Dabbie Olivieri
-Design e Identidade Visual
+### Dabbie Olivieri
+> Design e Identidade Visual  
 
 
 
